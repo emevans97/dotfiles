@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emevans97@icloud.com
+	name = Ewan Evans
